@@ -1,25 +1,24 @@
-Sample Constitutions: Executive Constitution
-UVSS UVic Virtual Reality Club
-Updated: 2018
-Article 1: Name
-The club shall be known as the University of Victoria Students’ Society
-(UVSS)
-UVic Virtual Reality Club
-Article 2: Purpose
+# UVic Virtual Constitution
+This document serves as the constitution for Uvic Virtual.
+## Article 1: Name
+The club shall be known as UVic Virtual
+## Article 2: Purpose
 The purpose of the club is to:
-Connect students with a passion for virtual reality.
-Article 3: Dissolution
+* Facilitate Uvic students' access to VR technology at Uvic
+* Support a peer learning environment dedicated to learning to develop 3d virtual worlds
+## Article 3: Dissolution
 The UVic Virtual Reality Club may be dissolved by a two-thirds (2/3) vote at a quorate
 General Meeting, or by the Director of Student Affairs after a period of inactivity, as
 outlined in the Clubs Policy.
+
 Upon the dissolution of the club, any assets and/or liabilities shall be transferred to
 the Students’ Society Clubs Control account.
-Bylaw 1: Membership
+## Bylaw 1: Membership
 University of Victoria (UVic) undergraduate students shall comprise twothirds (2/3) of
 the membership of the UVic Virtual Reality club. To verify this, the club shall provide
 the Students’ Society Director of Student Affairs with a list of all club members’ names
 and student numbers every active semester upon registration.
-Bylaw 2: Executive positions
+## Bylaw 2: Executive positions
 The positions of President, Vice-President, Treasurer, Secretary, and Clubs Council
 Representative (herein referred to as The Executive) shall be chosen at the Semesterly
 General Meeting for a (one) semester term of office. The President , the VicePresident
@@ -38,7 +37,7 @@ successive officers and members. The treasurer shall oversee the club’s financ
 submit budgetary request forms to the Director of Student Affairs. The secretary shall
 be responsible for notifying the membership of upcoming meetings and minute taking
 at the meetings.
-Bylaw 3: Meetings
+## Bylaw 3: Meetings
 General meetings will be held at least every 4 months to give the membership control
 of the direction and activities of the club. General meetings are scheduled by The
 Executive. The General meetings may be held in an online discussion forum and
@@ -51,7 +50,7 @@ may be called at any time by The Executive. The Executive shall prepare the agen
 for General Meetings. General Meetings must be advertised at least seven (7) days
 prior to the date of the meeting. Sufficient advertising will take the form an email
 notice sent out over the club’s list-serve.
-Bylaw 4: Funds of the Society
+## Bylaw 4: Funds of the Society
 All banking shall be carried out subject to the rules and regulations of the Students’
 Society as set out by the Board of Directors. The allocated budget grant that the UVic
 Students’ Society UVic Virtual Reality club receives each year from Clubs
@@ -63,11 +62,11 @@ must be deposited in the UVic Students’ Society UVic Virtual Reality Club’s
 trust account held by the Students’ Society. Cheque requisitions must be submitted
 according to UVSS policy to obtain access to club funds, and are subject to approval by
 the Director of Services. 
-Bylaw 5: Amendments
+## Bylaw 5: Amendments
 The Constitution of the UVic Students’ Society UVic Virtual Reality Club may be
 amended on written published notice of one week and by a two-thirds majority vote
 at a quorate General Meeting.
-Bylaw 6: Limitations
+## Bylaw 6: Limitations
 Nothing in this constitution shall be interpreted in a manner repugnant to the
 Constitution of the Students’ Society or to the declared policy of the Students’ Society
 Board of Directors. 
