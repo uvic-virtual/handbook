@@ -46,8 +46,7 @@ prior to the date of the meeting. Sufficient advertising consists of an @everyon
 All banking shall be carried out subject to the rules and regulations of the Students’
 Society as set out by the Board of Directors. The allocated budget grant that UVic Virtual receives each year from Clubs
 Council shall be deposited in the club’s standard budget account held by the
-Students’ Society. Any funds remaining in UVic Virtual
-Reality’s budget account after the conclusion of the fiscal year
+Students’ Society. Any funds remaining in UVic Virtual’s budget account after the conclusion of the fiscal year
 (April 30) shall revert to the Clubs control account. All funds designated as self-generated
 must be deposited in UVic Virtual’s
 trust account held by the Students’ Society. Cheque requisitions must be submitted
