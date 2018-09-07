@@ -1,5 +1,5 @@
 # UVic Virtual Constitution
-This document serves as the constitution for UVic Virtual. It's history is available at [https://github.com/uvic-virtual/handbook/blob/master/constitution.md](https://github.com/uvic-virtual/handbook/blob/master/constitution.md)
+This document serves as the constitution for UVic Virtual. Its history is available at [https://github.com/uvic-virtual/handbook/blob/master/constitution.md](https://github.com/uvic-virtual/handbook/blob/master/constitution.md)
 ## Article 1: Name
 The club shall be known as UVic Virtual
 ## Article 2: Purpose
