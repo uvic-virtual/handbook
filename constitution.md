@@ -1,10 +1,10 @@
 # UVic Virtual Constitution
-This document serves as the constitution for Uvic Virtual. It's history is available at [https://github.com/uvic-virtual/handbook/blob/master/constitution.md](https://github.com/uvic-virtual/handbook/blob/master/constitution.md)
+This document serves as the constitution for UVic Virtual. It's history is available at [https://github.com/uvic-virtual/handbook/blob/master/constitution.md](https://github.com/uvic-virtual/handbook/blob/master/constitution.md)
 ## Article 1: Name
 The club shall be known as UVic Virtual
 ## Article 2: Purpose
 The purpose of the club is to:
-* Facilitate Uvic students' access to VR technology at Uvic
+* Facilitate Uvic students' access to VR technology at UVic
 * Support a peer learning environment dedicated to learning to develop 3d virtual worlds
 ## Article 3: Dissolution
 UVic Virtual may be dissolved by a two-thirds (2/3) vote at a quorate
