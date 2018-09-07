@@ -4,7 +4,7 @@ This document serves as the constitution for UVic Virtual. It's history is avail
 The club shall be known as UVic Virtual
 ## Article 2: Purpose
 The purpose of the club is to:
-* Facilitate Uvic students' access to VR technology at UVic
+* Facilitate UVic students' access to VR technology at UVic
 * Support a peer learning environment dedicated to learning to develop 3d virtual worlds
 ## Article 3: Dissolution
 UVic Virtual may be dissolved by a two-thirds (2/3) vote at a quorate
@@ -44,7 +44,7 @@ for General Meetings. General Meetings must be advertised at least seven (7) day
 prior to the date of the meeting. Sufficient advertising consists of an @everyone mention in the #general Slack channel.
 ## Bylaw 4: Funds of the Society
 All banking shall be carried out subject to the rules and regulations of the Students’
-Society as set out by the Board of Directors. The allocated budget grant that Uvic Virtual receives each year from Clubs
+Society as set out by the Board of Directors. The allocated budget grant that UVic Virtual receives each year from Clubs
 Council shall be deposited in the club’s standard budget account held by the
 Students’ Society. Any funds remaining in UVic Virtual
 Reality’s budget account after the conclusion of the fiscal year
