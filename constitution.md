@@ -14,7 +14,7 @@ outlined in the Clubs Policy.
 Upon the dissolution of the club, any assets and/or liabilities shall be transferred to
 the Students’ Society Clubs Control account.
 ## Bylaw 1: Membership
-University of Victoria (UVic) undergraduate students shall comprise twothirds (2/3) of
+University of Victoria (UVic) undergraduate students shall comprise two-thirds (2/3) of
 the membership of UVic Virtual. To verify this, the club shall provide
 the Students’ Society Director of Student Affairs with a list of all club members’ names
 and student numbers every active semester upon registration.
@@ -48,7 +48,7 @@ Society as set out by the Board of Directors. The allocated budget grant that UV
 Council shall be deposited in the club’s standard budget account held by the
 Students’ Society. Any funds remaining in UVic Virtual
 Reality’s budget account after the conclusion of the fiscal year
-(April 30) shall revert to the Clubs control account. All funds designated as selfgenerated
+(April 30) shall revert to the Clubs control account. All funds designated as self-generated
 must be deposited in UVic Virtual’s
 trust account held by the Students’ Society. Cheque requisitions must be submitted
 according to UVSS policy to obtain access to club funds, and are subject to approval by
