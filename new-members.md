@@ -8,3 +8,10 @@ You should have gotten a sign up link when you filled out your [introduction for
 To help everybody in the club learn your name, please upload a picture of yourself to the slack :bowtie:
 
 ## Step 3: Learn how we use Slack
+We use Slack in a particular way to help make information easier to find. Check out our [Slack guidelines](slack.md) to see how you can help us stay clear.
+
+## Step 4: Put your face in a headset :sunglasses:
+Check our some of the [spots on campus](locations.md) where you can use VR!
+
+## Step 5: Join a project (or start you own??)
+Check out our [ongoing projects](projects.md) to see where you can jump in!
