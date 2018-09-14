@@ -1,4 +1,4 @@
-# Welcome to UVic Virtual
+# Welcome to UVic Virtual!
 We're glad to have you on the team! This page lays out the steps you can take to join the club, find a project and start creating in VR!
 
 ## Step 1: Join the slack
