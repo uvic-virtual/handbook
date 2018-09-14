@@ -11,3 +11,6 @@ Putting lots of text in one message (so before you send it) makes it easier to r
 
 ## Transparency
 It's easier to keep everybody in the loop if everybody can read the conversation. Ask questions in channels and [mention](https://get.slack.help/hc/en-us/articles/205240127-Mention-a-member) people that can answer instead of directly messaging so that other people can learn from your answers :smile:
+
+## Real Profile Pictures
+Help your club peers learn who you are :smile: Uploading a recognizable picture of yourself is appreciated!
