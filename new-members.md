@@ -10,5 +10,8 @@ To help everybody in the club learn your name, please upload a picture of yourse
 ## Step 3: Learn how we use Slack
 We use Slack in a particular way to help make information easier to find. Check out our [Slack guidelines](slack.md) to see how you can help us stay clear.
 
-## Step 4: Join a project
+## Step 4: Install Unity
+City virtual uses version [2017.4.1f1](https://unity3d.com/unity/qa/lts-releases?version=2017.4). SoundstageVR uses version [5.5.5f1](https://unity3d.com/get-unity/download/archive).
+
+## Step 5: Join a project
 Stay tuned to the Slack for project leads asking for help, upcoming meetings and VR lab training days!
