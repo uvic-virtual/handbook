@@ -1,12 +1,12 @@
 # UVic Virtual Projects List
 This page serves as a reference of all active projects at the UVic Virtual club.
 ## Contents
-[360 Film Fine Arts Collab](Projects/360film.md)
+[360 Film Fine Arts Collab](projects/360film.md)
 
-[City Virtual](Projects/city_virtual.md)
+[City Virtual](projects/city_virtual.md)
 
-[iGem](Projects/igem.md)
+[iGem](projects/igem.md)
 
-[Soundstage VR](Projects/soundstageVR.md)
+[Soundstage VR](projects/soundstageVR.md)
 
-[Untangled](Projects/untangled.md)
+[Untangled](projects/untangled.md)
