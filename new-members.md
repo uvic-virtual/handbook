@@ -14,4 +14,7 @@ We use Slack in a particular way to help make information easier to find. Check 
 City virtual uses version [2017.4.1f1](https://unity3d.com/unity/qa/lts-releases?version=2017.4). SoundstageVR uses version [5.5.5f1](https://unity3d.com/get-unity/download/archive).
 
 ## Step 5: Join a project
-Stay tuned to the Slack for project leads asking for help, upcoming meetings and VR lab training days!
+See if you are interested in any [projects](projects.md) and message the team lead if you'd like to jump in!
+
+## Step 6: Join the #help channel
+Team leads and other members post in #help when they need someone to take on some work. This is often the easiest way to get involved :ok_hand:
