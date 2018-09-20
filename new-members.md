@@ -18,3 +18,5 @@ See if you are interested in any [projects](projects.md) and message the team le
 
 ## Step 6: Join the #help channel
 Team leads and other members post in #help when they need someone to take on some work. This is often the easiest way to get involved :ok_hand:
+
+To join a channel on Slack, [follow Slack's guide](https://get.slack.help/hc/en-us/articles/205239967-Browsing-and-joining-channels).
