@@ -1,5 +1,5 @@
 # UVic Virtual Official Handboook
-This repository serves as reference material for all things club-related, including Unity, Git, GitHub, Jekyll and more.
+https://uvicvirtual.ca/
 ## Contents
 [Club constitution](constitution.md)
 
