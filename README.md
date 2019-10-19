@@ -7,4 +7,4 @@ This repository serves as reference material for all things club-related, includ
 
 [List of Projects](projects.md)
 
-[Join our Slace!](slack.md)
+[Join our Slack!](slack.md)
