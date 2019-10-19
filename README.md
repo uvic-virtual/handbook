@@ -6,3 +6,5 @@ This repository serves as reference material for all things club-related, includ
 [New member tips](new-members.md)
 
 [List of Projects](projects.md)
+
+[Join our Slace!](slack.md)
