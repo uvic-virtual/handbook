@@ -4,7 +4,3 @@ https://uvicvirtual.ca/
 [Club constitution](constitution.md)
 
 [New member tips](new-members.md)
-
-[List of Projects](projects.md)
-
-[Join our Slack!](slack.md)
